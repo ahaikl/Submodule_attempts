@@ -2,3 +2,6 @@
 	path = book1_poc
 	url = https://github.com/ahaikl/Submodule_attempts
 	ignore = dirty
+[submodule "vecse_book2"]
+	path = vecse_book2
+	url = https://github.com/ahaikl/Submodule_attempts
