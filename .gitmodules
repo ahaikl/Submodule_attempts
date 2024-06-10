@@ -1,3 +1,4 @@
 [submodule "book1_poc"]
 	path = book1_poc
 	url = https://github.com/ahaikl/Submodule_attempts
+	ignore = dirty
